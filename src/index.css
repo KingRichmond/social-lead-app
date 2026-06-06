@@ -1,0 +1,11 @@
+/* Vite default index.css replaced — app styles live in App.css and Layout.jsx */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
